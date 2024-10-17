@@ -30,5 +30,9 @@ This project focuses on developing a computer vision system designed to predict 
 ## Video 
 
 
+https://github.com/user-attachments/assets/5a905bec-38c1-4a55-8ad4-d35c84f3a7a5
+
+
+
 
 
